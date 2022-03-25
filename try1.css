@@ -1,0 +1,53 @@
+body {
+    background: rgb(180, 77, 77);
+    background-image: url("https://i.pinimg.com/564x/bc/7b/70/bc7b70f3314932ea19df01ea73c5ed9c.jpg");
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2m;
+    font-weight: 300;
+    color: white;
+}
+
+ul {
+    text-align: center;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ol {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+a {
+    color: white;
+}
+
+li {
+    display:inline-block;
+    *display:inline; /*IE7*/
+    *zoom:1; /*IE7*/
+    color:white;
+    margin-right:10px;
+}
